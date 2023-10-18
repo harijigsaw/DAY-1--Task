@@ -1,0 +1,14 @@
+HTTP1
+
+1> The first usable version of HTTP was created in 1997.
+2> Because it went through several stages of development.
+3> this first version of HTTP was called HTTP/1.1. 
+4> This version is still in use on the web.
+
+
+HTTP2
+
+1> In 2015, a new version of HTTP called HTTP/2 was created. 
+2> HTTP/2 solves several problems that the creators of HTTP/1.1 did not anticipat.
+3>  In particular, HTTP/2 is much faster and more efficient than HTTP/1.1. 
+4> One of the ways in which HTTP/2 is faster is in how it prioritizes content during the loading process.

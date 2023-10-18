@@ -1,0 +1,5 @@
+Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+ These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
+
+ An object is a collection of properties, and a property is an association between a name (or key) and a value. 
+A property's value can be a function, in which case the property is known as a method.
